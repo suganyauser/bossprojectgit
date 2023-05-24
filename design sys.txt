@@ -1,0 +1,51 @@
+design system
+
+https://www.youtube.com/watch?v=G1xmkQeExJo&t=415s
+
+https://www.youtube.com/watch?v=aMtnGeiWTyU
+
+https://www.adobe.com/in/products/xd/learn/get-started-xd-design.html
+
+design systems
+
+Atoms
+In scientific terms, atoms are the basic building blocks that together make up matter. When you translate that over to a website design methodology, they serve a similar purpose. Atoms act as the basic building blocks for all of your website design efforts. While they aren’t design elements that can stand alone, together they create different elements that are used throughout your website’s layout. Atoms can include any of the following:
+
+1. Fonts
+2. Color schemes
+3. Buttons
+4. Form fields
+5. Logos
+6. Inputs
+7. Labels
+
+When following this methodology, a lot of designers create their atoms and compile them in a unique style guide. This holds all of the essential atoms you need so that you can pull pieces of each as you start the bigger design elements. Aside from selecting color palettes, or determining what all paragraphs would look like on your pages, designers have to think about the mobile and desktop versions of each as well.
+
+Molecules
+
+In chemistry, molecules represent the smallest part of any chemical element, and are made up from atoms combined together. Similarly, with the atomic design process, molecules are design features that are made up of the basic building blocks defined in the style guide—the atoms.
+
+To better grasp how a molecule would be created in a website design, think about a simple search form. You may combine a button (atom) with the appropriate input (atom) and label (atom) to create a full-functioning search bar (molecule). Those items (the button, input, and label) together create something that is incredibly useful and essential to the functionality of the site, however if they were to act alone, they wouldn’t be as valuable.
+
+Organisms
+
+Organisms are groups of molecules together. What makes these organisms different from a molecule is that there are several of them, allowing the complexity to reach a new level. In website design, organisms are several molecules combined together on a section of your page.
+
+
+When you think about the masthead at the top of your homepage, you can compare that to molecules combined together to form an organism. On your masthead you likely have your navigation, your search bar, and your logo all together to help your users navigate your site easily. Each of those three features could be used alone if they had to be (molecules). However, if you were to break them down even more, they likely wouldn’t stand alone, they would simply be the basic building blocks necessary to help create the other functionalities of your site (atoms).
+
+Templates
+
+The next phase doesn’t align as closely with chemistry as the previous sections have. Templates are created by putting together all of the organisms to create a website page. This provides you with a much deeper understanding of what the design and page will look like once it’s completed and lives.
+
+
+
+design system 
+Part 01 ; https://youtu.be/ISb8MkRItEk
+Part 02 : https://youtu.be/GFw-WdozsqY
+Part 03 : https://youtu.be/jtZFHhXx4ZU
+Part 04 : https://youtu.be/eYuK8pIYcu8
+Part 05 : https://youtu.be/671ScX-UjSw
+
+DESIGN SYS
+https://www.rootstrap.com/blog/the-best-figma-plugins-for-designers-in-2022/
